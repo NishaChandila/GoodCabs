@@ -25,7 +25,7 @@ By leveraging Python, SQL, and Power BI, this project transforms raw data into m
 ## **DATA STRUCTURE**
 
 
-# **DATASET PREVIEW**
+**DATASET PREVIEW**
 
 ![Dataset](https://github.com/NishaChandila/project-assets/blob/main/goodcabs-dataset.PNG)
 
