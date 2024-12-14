@@ -25,7 +25,7 @@ By leveraging Python, SQL, and Power BI, this project transforms raw data into m
 ## **DATA STRUCTURE**
 
 
-## **DATASET PREVIEW**
+# **DATASET PREVIEW**
 
 ![Dataset](https://github.com/NishaChandila/project-assets/blob/main/goodcabs-dataset.PNG)
 
@@ -132,7 +132,7 @@ Key charts include city-wise comparisons, revenue growth, and total trips by mon
 ### **Page 2: Performance**
 The Performance page dives deeper into city-level performance:
 
-~[Performance](https://github.com/NishaChandila/project-assets/blob/main/goodcabs-3.PNG)
+![Performance](https://github.com/NishaChandila/project-assets/blob/main/goodcabs-3.PNG)
 
 - **Average Trip Distance by Month**: Highest in January at 19.6 km.
 - **Average Trip Distance by City**: Jaipur (30 km), Surat (11 km).
