@@ -16,7 +16,7 @@ By leveraging Python, SQL, and Power BI, this project transforms raw data into m
 
 - SQL Business Questions [Ad-hoc here](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs.sql)
 
-- Python Primary & Secondary Question [Here]()
+- Python Primary & Secondary Question [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
 
 - Goodcabs Presentation [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs-Presentation.pdf)
 
@@ -153,7 +153,7 @@ The Performance page dives deeper into city-level performance:
 - **City Contribution to Trips & Revenue**: Identify key cities contributing the most to trips and revenue.
 - **Seasonal Demand Patterns**: Understand seasonal trends and their impact on revenue and trips.
 
-- Python Primary & Secondary Question [Here]()
+- Python Primary & Secondary Question [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
 
 ---
 
@@ -177,7 +177,7 @@ By implementing these strategies, Goodcabs can drive operational efficiency, inc
 
 - SQL Business Questions [Ad-hoc here](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs.sql)
 
-- Python Primary & Secondary Question [Here]()
+- Python Primary & Secondary Question [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
 
 - Goodcabs Presentation [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs-Presentation.pdf)
 
