@@ -10,15 +10,11 @@ The primary aim of this project is to answer critical business questions using S
 
 By leveraging Python, SQL, and Power BI, this project transforms raw data into meaningful stories, presenting stakeholders with a comprehensive view of Goodcabs’ operations. The ultimate goal is to identify strengths, address challenges, and support strategic decision-making, ensuring that Goodcabs not only meets its 2024 targets but also strengthens its impact in the communities it serves.
 
-- [Dataset here](https://github.com/NishaChandila/GoodCabs/tree/main/Dataset)
-
-- [Power BI Dashboard](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs-dashboard.pdf)
-
-- SQL Business Questions [Ad-hoc here](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs.sql)
-
-- Python Primary & Secondary Question [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
-
-- Goodcabs Presentation [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs-Presentation.pdf)
+- GoodCabs [Dataset here](https://github.com/NishaChandila/GoodCabs/tree/main/Dataset)
+- GoodCabs [Power BI Dashboard](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs-dashboard.pdf)
+- GoodCabs [SQL Ad-hoc here](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs.sql)
+- GoodCabs [Python Primary & Secondary Question](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
+- Goodcabs [Presentation](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs-Presentation.pdf)
 
 ---
 
@@ -78,7 +74,7 @@ By leveraging Python, SQL, and Power BI, this project transforms raw data into m
 
 - Key performance metrics include total trips, revenue trends, repeat passenger rates, and more.
 
-- [Dataset here](https://github.com/NishaChandila/GoodCabs/tree/main/Dataset)
+- GoodCabs [Dataset here](https://github.com/NishaChandila/GoodCabs/tree/main/Dataset)
 
 ---
 
@@ -106,8 +102,7 @@ SQL queries were used to examine core business questions, revealing critical ins
 - **Revenue Performance by Month**:
   - Chandigarh saw peak revenue of ₹2.1M in February, while June saw a decline in both trips and revenue.
 
-- SQL Business Questions [Ad-hoc here](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs.sql)
-
+- GoodCabs [SQL Ad-hoc here](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs.sql)
 ---
 
 ## **POWER BI DASHBOARD**
@@ -139,7 +134,7 @@ The Performance page dives deeper into city-level performance:
 - **Monthly Average Fare per Trip**: February ₹263.5, January ₹261.9.
 - **New vs Repeat Trips by Month**: January saw the highest new trips (36K), while May had the lowest repeat trips (48K).
 
-- [Power BI Dashboard](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs-dashboard.pdf)
+- GoodCabs [Power BI Dashboard](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs-dashboard.pdf)
 
 ---
 
@@ -153,7 +148,7 @@ The Performance page dives deeper into city-level performance:
 - **City Contribution to Trips & Revenue**: Identify key cities contributing the most to trips and revenue.
 - **Seasonal Demand Patterns**: Understand seasonal trends and their impact on revenue and trips.
 
-- Python Primary & Secondary Question [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
+- GoodCabs [Python Primary & Secondary Question](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
 
 ---
 
@@ -171,14 +166,10 @@ Based on insights from SQL analysis and the Power BI dashboard, the following ke
 
 By implementing these strategies, Goodcabs can drive operational efficiency, increase revenue, and improve customer retention, ensuring long-term success and growth in tier-2 cities.
 
-- [Dataset here](https://github.com/NishaChandila/GoodCabs/tree/main/Dataset)
-
-- [Power BI Dashboard](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs-dashboard.pdf)
-
-- SQL Business Questions [Ad-hoc here](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs.sql)
-
-- Python Primary & Secondary Question [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
-
-- Goodcabs Presentation [Here](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs-Presentation.pdf)
+- GoodCabs [Dataset here](https://github.com/NishaChandila/GoodCabs/tree/main/Dataset)
+- GoodCabs [Power BI Dashboard](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs-dashboard.pdf)
+- GoodCabs [SQL Ad-hoc here](https://github.com/NishaChandila/GoodCabs/blob/main/goodcabs.sql)
+- GoodCabs [Python Primary & Secondary Question](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs.ipynb)
+- Goodcabs [Presentation](https://github.com/NishaChandila/GoodCabs/blob/main/GoodCabs-Presentation.pdf)
 
 ---
